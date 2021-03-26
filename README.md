@@ -1,4 +1,27 @@
 ## Python Useful Codes Memo
-DataFrame_Header.py : control DataFrame column name collectively with lambda    
-DataFrame_column_calculating.py : calculating Pandas DataFrame by column    
-regression_modeling.py : modeling regression easily by using for
+- DataFrame_Header.py : control DataFrame column name collectively with lambda
+- DataFrame_column_calculating.py : calculating Pandas DataFrame by column
+- make_folder.py : make folder if working directory has no declared name of folder
+- regression_modeling.py : modeling regression easily by using for
+
+## Python Useful Packages Memo
+#### Data mining
+- Pandas : DataFrame
+- Numpy
+- Scikit-learn
+- Scipy
+#### Deeplearning
+- tensorflow
+- keras
+- Pytorch
+#### system handling
+- os
+- sys
+#### web handling
+- beautifulsoup4: crawling
+- selenium: web browser control, needs webdriver
+#### plotting
+- matplotlib
+- yellowbrick: visualization with machine learning
+- ggplot
+- seaborn
