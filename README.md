@@ -20,10 +20,12 @@
 - os
 - sys
 #### web handling
-- beautifulsoup4: crawling
-- selenium: web browser control, needs webdriver
+- beautifulsoup4 : crawling
+- selenium : web browser control, needs webdriver
 #### plotting
 - matplotlib
-- yellowbrick: visualization with machine learning
+- yellowbrick : visualization with machine learning
 - ggplot
 - seaborn
+#### etc
+- pyinstaller : make py file to exe file, 'pyinstaller --onefile FileName.py'
