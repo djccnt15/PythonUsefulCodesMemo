@@ -28,4 +28,4 @@
 - ggplot
 - seaborn
 #### etc
-- pyinstaller : make py file to exe file, 'pyinstaller -F --clean --onefile FileName.py'
+- pyinstaller : make py file to exe file, 'pyinstaller --clean --onefile FileName.py'
