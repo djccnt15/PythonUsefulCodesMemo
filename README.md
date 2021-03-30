@@ -5,3 +5,4 @@
 - make_folder.py : make folder if working directory has no declared name of folder
 - pause.py : pause .py file
 - regression_modeling.py : modeling regression easily by using for
+- time.py : tips with time, schedule packages
