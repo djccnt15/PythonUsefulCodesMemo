@@ -1,7 +1,7 @@
 import pandas as pd
 import statsmodels.formula.api as smf
 
-dataset = pd.read_csv(dataset.csv)
+dataset = pd.read_csv('dataset.csv')
 
 '''targetting var'''
 independ_names = ' + '.join(dataset.columns)
