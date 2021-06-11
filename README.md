@@ -5,7 +5,7 @@
 - get_files.py : get every files in dir
 - make_folder.py : make folder if working directory has no declared name of folder
 - numpy.where.py : how to replace pandas element of Series with condition
-- numpy.select.py : how to add columns of pandas Series with condition
+- numpy.select.py : how to add columns of pandas Series with multiple condition
 - pause.py : pause .py file
 - regression_modeling.py : modeling regression easily by using for
 - time.py : tips with time, schedule packages
